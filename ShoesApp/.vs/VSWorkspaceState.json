@@ -4,7 +4,8 @@
     "\\ShoesApp",
     "\\ShoesApp\\Entities",
     "\\ShoesApp\\Views",
-    "\\ShoesApp\\Views\\Home"
+    "\\ShoesApp\\Views\\Home",
+    "\\ShoesApp\\Views\\Shared"
   ],
   "SelectedNode": "\\ShoesApp.sln",
   "PreviewInSolutionExplorer": false

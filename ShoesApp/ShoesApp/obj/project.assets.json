@@ -5695,11 +5695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
+      "projectUniqueName": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
       "projectName": "ShoesApp",
-      "projectPath": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
+      "projectPath": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
       "packagesPath": "C:\\Users\\satta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\obj\\",
+      "outputPath": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\satta\\AppData\\Roaming\\NuGet\\NuGet.Config",

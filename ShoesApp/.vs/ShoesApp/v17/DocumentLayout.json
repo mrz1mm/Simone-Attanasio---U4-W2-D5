@@ -1,42 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\satta\\source\\repos\\ShoesApp\\",
+  "WorkspaceRootPath": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\source\\repos\\shoesapp\\shoesapp\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\documents\\github\\simone-attanasio---u4-w2-d5\\shoesapp\\shoesapp\\wwwroot\\images\\default.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\wwwroot\\images\\default.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,119 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ShoesApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ShoesApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwCAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T11:20:26.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ShoesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ShoesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T11:20:23.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ShoesApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ShoesApp\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-28T11:11:55.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoesApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShoesApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T11:07:34.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrudService.cs",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Services\\CrudService.cs",
-              "RelativeDocumentMoniker": "ShoesApp\\Services\\CrudService.cs",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Services\\CrudService.cs",
-              "RelativeToolTip": "ShoesApp\\Services\\CrudService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBIAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T11:04:13.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICrudService.cs",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Interfaces\\ICrudService.cs",
-              "RelativeDocumentMoniker": "ShoesApp\\Interfaces\\ICrudService.cs",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Interfaces\\ICrudService.cs",
-              "RelativeToolTip": "ShoesApp\\Interfaces\\ICrudService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T11:04:11.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "ShoesApp\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "ShoesApp\\Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwDsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T10:58:42.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "ShoesApp\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "ShoesApp\\Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T10:54:37.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ShoesApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ShoesApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAAAG0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T10:51:30.001Z",
-              "EditorCaption": ""
+              "Title": "default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\default.jpg",
+              "RelativeDocumentMoniker": "ShoesApp\\wwwroot\\images\\default.jpg",
+              "ToolTip": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
+              "RelativeToolTip": "ShoesApp\\wwwroot\\images\\default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-28T12:30:58.285Z",
+              "EditorCaption": " - Bitmap [1347x1206, 24 bit, JPG]"
             }
           ]
         }

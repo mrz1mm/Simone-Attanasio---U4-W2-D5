@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUe8E7SYyv4=",
+  "dgSpecHash": "WO2e4GkoZS8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\satta\\source\\repos\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
+  "projectFilePath": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\ShoesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\satta\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\satta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
