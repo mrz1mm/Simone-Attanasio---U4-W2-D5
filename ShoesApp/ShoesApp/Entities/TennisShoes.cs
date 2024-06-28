@@ -10,11 +10,14 @@ namespace ShoesApp.Entities
         /// <summary>
         /// Nome della scarpa
         /// </summary>
+        [Required(ErrorMessage = "Il nome è obbligatorio.")]
         public string Name { get; set; } = string.Empty;
 
         /// <summary>
         /// Descrizione della scarpa
         /// </summary>
+        [Required(ErrorMessage = "La descrizione è obbligatoria.")]
+        [StringLength(500, ErrorMessage = "La descrizione non può superare i 500 caratteri.")]
         public string Description { get; set; } = string.Empty;
 
         /// <summary>

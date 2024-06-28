@@ -58,6 +58,13 @@ namespace ShoesApp.Controllers
         [HttpPost]
         public IActionResult Create(TennisShoes shoe)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(shoe);
+            }
+
+            else 
+            { 
             var newShoe = new TennisShoes
             {
                 Name = shoe.Name,
@@ -85,6 +92,7 @@ namespace ShoesApp.Controllers
             }
 
             return RedirectToAction(nameof(Index));
+            }
         }
 
         // Azione per la visualizzazione del form di modifica di una scarpa
