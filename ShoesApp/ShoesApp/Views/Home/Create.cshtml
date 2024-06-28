@@ -1,0 +1,44 @@
+﻿@model ShoesApp.Entities.TennisShoes
+
+@{
+    ViewData["Title"] = Model.Id == 0 ? "Create Tennis Shoes" : "Edit Tennis Shoes";
+    var formAction = Model.Id == 0 ? "Create" : "Edit";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="@formAction" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" placeholder="Insert the product's name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" placeholder="Insert the item's description'" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cover.File" class="control-label"></label>
+        <input asp-for="Cover.File" type="file" class="form-control" />
+        <span asp-validation-for="Cover.File" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image1.File" class="control-label"></label>
+        <input asp-for="Image1.File" type="file" class="form-control" />
+        <span asp-validation-for="Image1.File" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image2.File" class="control-label"></label>
+        <input asp-for="Image2.File" type="file" class="form-control" />
+        <span asp-validation-for="Image2.File" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="@ViewData["Title"]" class="btn btn-primary mt-3" />
+    </div>
+</form>
