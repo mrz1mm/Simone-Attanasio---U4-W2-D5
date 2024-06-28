@@ -1,36 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|c:\\users\\satta\\documents\\github\\simone-attanasio---u4-w2-d5\\shoesapp\\shoesapp\\wwwroot\\images\\default.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{9A426A61-E4CC-42F3-B6C9-5256DFB423C8}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\wwwroot\\images\\default.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\default.jpg",
-              "RelativeDocumentMoniker": "ShoesApp\\wwwroot\\images\\default.jpg",
-              "ToolTip": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
-              "RelativeToolTip": "ShoesApp\\wwwroot\\images\\default.jpg - Bitmap [1347x1206, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-06-28T12:30:58.285Z",
-              "EditorCaption": " - Bitmap [1347x1206, 24 bit, JPG]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

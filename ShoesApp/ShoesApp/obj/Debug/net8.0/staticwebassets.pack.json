@@ -13,34 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\1_cover.jpg",
-      "PackagePath": "staticwebassets\\images\\1_cover.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\1_image1.jpg",
-      "PackagePath": "staticwebassets\\images\\1_image1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\1_image2.jpg",
-      "PackagePath": "staticwebassets\\images\\1_image2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\4_cover.jpg",
-      "PackagePath": "staticwebassets\\images\\4_cover.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\6_cover.jpg",
-      "PackagePath": "staticwebassets\\images\\6_cover.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\6_image1.jpg",
-      "PackagePath": "staticwebassets\\images\\6_image1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\6_image2.jpg",
-      "PackagePath": "staticwebassets\\images\\6_image2.jpg"
-    },
-    {
       "Id": "C:\\Users\\satta\\Documents\\GitHub\\Simone-Attanasio---U4-W2-D5\\ShoesApp\\ShoesApp\\wwwroot\\images\\default.jpg",
       "PackagePath": "staticwebassets\\images\\default.jpg"
     },

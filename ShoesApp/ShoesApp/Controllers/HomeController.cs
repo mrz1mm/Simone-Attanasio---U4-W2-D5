@@ -2,25 +2,32 @@ using Microsoft.AspNetCore.Mvc;
 using ShoesApp.Entities;
 using ShoesApp.Interfaces;
 
+// Controller per la gestione delle pagine pubbliche
 namespace ShoesApp.Controllers
 {
+    
     public class HomeController : Controller
     {
+        // Dichiarazione dei servizi utilizzati dal controller
         private readonly ILogger<HomeController> _logger;
         private readonly IInventoryService _inventoryService;
         private readonly IImgService _imgService;
 
+        // Costruttore del controller
         public HomeController(ILogger<HomeController> logger, IInventoryService inventoryService, IImgService imgService)
         {
+            // Inizializzazione dei servizi
             _logger = logger;
             _inventoryService = inventoryService;
             _imgService = imgService;
         }
 
+        // Azione per la visualizzazione della home page
         public IActionResult Index()
         {
             var shoes = _inventoryService.GetAllShoes().OrderByDescending(s => s.CreatedAt);
 
+            // Aggiungo l'URL delle immagini alle scarpe
             foreach (var shoe in shoes)
             {
                 shoe.Cover.Url = _imgService.GetImageUrl(shoe.Id.ToString(), "cover");
@@ -31,6 +38,7 @@ namespace ShoesApp.Controllers
             return View(shoes);
         }
 
+        // Azione per la visualizzazione dei dettagli di una scarpa
         public IActionResult Details(int id)
         {
             var shoe = _inventoryService.GetById(id);
@@ -40,11 +48,13 @@ namespace ShoesApp.Controllers
             return View(shoe);
         }
 
+        // Azione per la visualizzazione del form di creazione di una nuova scarpa
         public IActionResult Create()
         {
             return View(new TennisShoes());
         }
 
+        // Azione per la creazione di una nuova scarpa
         [HttpPost]
         public IActionResult Create(TennisShoes shoe)
         {
@@ -60,6 +70,7 @@ namespace ShoesApp.Controllers
 
             _inventoryService.Create(newShoe);
 
+            // Salvo le immagini sul server
             if (shoe.Cover.File != null && shoe.Cover.File.Length > 0)
             {
                 newShoe.Cover.Url = _imgService.SaveImage(shoe.Cover.File, newShoe.Id.ToString(), "cover");
@@ -76,6 +87,7 @@ namespace ShoesApp.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        // Azione per la visualizzazione del form di modifica di una scarpa
         public IActionResult Edit(int id)
         {
             var shoe = _inventoryService.GetById(id);
@@ -87,6 +99,7 @@ namespace ShoesApp.Controllers
             return View("Create", shoe);
         }
 
+        // Azione per la modifica di una scarpa
         [HttpPost]
         public IActionResult Edit(TennisShoes shoe)
         {
@@ -98,6 +111,7 @@ namespace ShoesApp.Controllers
             return View("Create", shoe);
         }
 
+        // Azione per la cancellazione di una scarpa
         [HttpPost]
         public IActionResult Delete(int id)
         {

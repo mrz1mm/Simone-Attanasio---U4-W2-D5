@@ -44,7 +44,7 @@ namespace ShoesApp.Services
                 return $"/images/{fileName}";
             }
 
-            return "/images/default.jpg"; // Path to default image
+            return "/images/default.jpg";
         }
 
     }

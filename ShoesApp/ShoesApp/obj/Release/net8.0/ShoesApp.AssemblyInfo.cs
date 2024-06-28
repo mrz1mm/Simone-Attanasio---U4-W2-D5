@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShoesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f464ad5d66ba482f2a81ca98475428e9b87f246c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShoesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShoesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
